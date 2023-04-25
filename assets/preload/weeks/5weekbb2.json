@@ -1,0 +1,49 @@
+{
+	"storyName": "???",
+	"difficulties": "Easy, Normal, Hard, Getreal",
+	"hideFreeplay": false,
+	"weekBackground": "room",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Guh",
+			"succ-alt",
+			[
+				190,
+				0,
+				181
+			]
+		],
+		[
+			"Famine",
+			"succ-alt",
+			[
+				190,
+				0,
+				181
+			]
+		],
+		[
+			"Succ_d",
+			"succ-alt",
+			[
+				190,
+				0,
+				181
+			]
+		]
+	],
+	"weekCharacters": [
+		"GF_Phase1",
+		"bf",
+		"gf"
+	],
+	"weekName": "weekbb2"
+}
