@@ -8,70 +8,70 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Mom Idle",
+			"name": "IDLE",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				250,
-				-23
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Mom Left Pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				10,
-				-60
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Mom Pose Left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				-160
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "MOM DOWN POSE",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				14,
-				71
+				26,
+				54
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Mom Up Pose",
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-156,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mom_Assets",
+	"image": "characters/gf_bloody2",
 	"position": [
-		0,
-		0
+		-40,
+		120
 	],
-	"healthicon": "mom",
-	"flip_x": false,
+	"healthicon": "succ-alt",
+	"flip_x": true,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		190,
+		0,
+		181
 	],
 	"camera_position": [
-		0,
-		0
+		-130,
+		10
 	],
 	"sing_duration": 4,
 	"scale": 1

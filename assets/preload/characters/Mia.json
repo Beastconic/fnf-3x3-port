@@ -8,70 +8,70 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Mom Idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				250,
-				-23
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Mom Left Pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				10,
-				-60
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Mom Pose Left",
+			"name": "mia idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
 				20,
-				-160
+				-95
 			],
-			"anim": "singDOWN",
+			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "MOM DOWN POSE",
+			"name": "mia right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				71
+				44,
+				80
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Mom Up Pose",
+			"name": "Mia Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mia Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mia Down",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mom_Assets",
+	"image": "characters/Mia",
 	"position": [
-		0,
-		0
+		110,
+		130
 	],
-	"healthicon": "mom",
+	"healthicon": "mia",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		255,
+		104,
+		237
 	],
 	"camera_position": [
-		0,
-		0
+		-220,
+		-40
 	],
 	"sing_duration": 4,
 	"scale": 1

@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				2,
+				0,
 				0
 			],
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Angry Senpai Idle",
+			"name": "Pico Idle Dance",
 			"indices": []
 		},
 		{
 			"offsets": [
-				5,
-				37
-			],
-			"loop": false,
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Angry Senpai UP NOTE",
-			"indices": []
-		},
-		{
-			"offsets": [
-				40,
-				0
+				16,
+				9
 			],
 			"loop": false,
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Angry Senpai LEFT NOTE",
+			"name": "Pico Note Right0",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-57,
+				-10
 			],
 			"loop": false,
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Angry Senpai RIGHT NOTE",
+			"name": "Pico NOTE LEFT0",
 			"indices": []
 		},
 		{
 			"offsets": [
-				14,
-				0
+				31,
+				57
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-46,
+				-81
 			],
 			"loop": false,
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Angry Senpai DOWN NOTE",
+			"name": "Pico Down Note0",
 			"indices": []
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/senpai",
+	"no_antialiasing": false,
+	"image": "characters/zombie_pico",
 	"position": [
-		150,
-		360
+		0,
+		280
 	],
-	"healthicon": "senpai-pixel",
-	"flip_x": false,
+	"healthicon": "zompico",
+	"flip_x": true,
 	"healthbar_colors": [
-		255,
-		170,
-		111
+		191,
+		51,
+		76
 	],
 	"camera_position": [
-		-240,
-		-330
+		-140,
+		70
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }

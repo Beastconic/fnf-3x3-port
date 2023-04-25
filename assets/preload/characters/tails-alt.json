@@ -2,14 +2,14 @@
 	"animations": [
 		{
 			"offsets": [
-				77,
-				-135
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
+			"anim": "idle",
 			"indices": [],
-			"name": "down placeholder"
+			"name": "Idle"
 		},
 		{
 			"offsets": [
@@ -18,61 +18,61 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "idle",
+			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Dearest Idle"
+			"name": "Right Pose"
 		},
 		{
 			"offsets": [
-				395,
-				7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Dearest Left"
-		},
-		{
-			"offsets": [
-				121,
-				177
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "UP Pose"
+			"name": "Up Pose"
 		},
 		{
 			"offsets": [
-				-19,
-				-11
+				0,
+				16
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "singDOWN",
 			"indices": [],
-			"name": "Right DD"
+			"name": "Down Pose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Pose",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/B3_Tails_Doll_Alt",
 	"position": [
-		20,
-		-5
+		-140,
+		-1130
 	],
-	"healthicon": "dad",
+	"healthicon": "tails",
 	"flip_x": false,
 	"healthbar_colors": [
-		110,
-		93,
-		113
+		238,
+		114,
+		223
 	],
 	"camera_position": [
-		-110,
-		-120
+		-440,
+		-350
 	],
-	"sing_duration": 6.1,
-	"scale": 1.25
+	"sing_duration": 4,
+	"scale": 1.8
 }
